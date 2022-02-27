@@ -1,6 +1,6 @@
 import React from "react";
 
-import Navbar from "./navbar";
+import Navba from "./navbar";
 
 import "./styles.css";
 
@@ -19,7 +19,7 @@ export default function App() {
       }}
       className="App"
     >
-      <Navbar />
+      <Navba />
       <div>
         <button style={{ width: "120px", margin: "500px 80px 0px" }}>
           Upload Image
